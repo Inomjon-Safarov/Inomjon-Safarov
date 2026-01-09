@@ -53,4 +53,6 @@
 
 
 
+## My GitHub Contributions Snake 🐍
+
 ![Snake animation](https://raw.githubusercontent.com/Inomjon-Safarov/Inomjon-Safarov/output/github-contribution-grid-snake.svg)
