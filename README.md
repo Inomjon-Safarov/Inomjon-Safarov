@@ -49,3 +49,8 @@
   💜 Thanks for visiting my profile! <br/>
   ⭐ Don’t forget to check my repositories and leave a star!
 </p>
+
+
+
+
+![Snake animation](https://raw.githubusercontent.com/Inomjon-Safarov/Inomjon-Safarov/output/github-contribution-grid-snake.svg)
