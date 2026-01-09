@@ -1,7 +1,5 @@
 ## 👋 Hey there! I'm Inomjon Safarov 😄
 
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="280" alt="Coding GIF"/>
-
 🚀 Welcome to my GitHub profile!  
 💻 I'm passionate about coding and constantly learning new tech  
 🌱 Always building and improving step by step  
@@ -30,12 +28,6 @@ Here are some technologies and tools I’m working with:
 - 🏗 Build meaningful projects  
 - 🤝 Contribute to open-source  
 - 🌟 Share knowledge with others  
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inomjon-Safarov&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inomjon-Safarov&layout=compact&theme=dark)
 
 ---
 
