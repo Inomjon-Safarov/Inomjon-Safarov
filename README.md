@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="280" alt="Animated coder GIF"/>
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="400" alt="Animated coder GIF"/>
 I’m an aspiring developer focused on growth and creativity.  
 I enjoy solving challenges, building cool stuff, and collaborating with others 🌍  
 
