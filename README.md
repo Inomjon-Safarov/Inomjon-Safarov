@@ -1,8 +1,5 @@
 ## 👋 Hey there! I'm Inomjon Safarov 😄
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="300" alt="Coding GIF"/>
-</p>
 
 🚀 Welcome to my GitHub profile!  
 💻 Passionate about coding & learning new technologies  
@@ -36,29 +33,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inomjon-Safarov&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inomjon-Safarov&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://t.me/Safarovw_02" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="48" height="48" alt="Telegram"/>
+  <a href="https://t.me/Safarovw_02">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/safarovw_01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="48" height="48" alt="Instagram"/>
+  <a href="https://instagram.com/safarovw_01">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/>
   </a>
 </p>
 
----
 
 <p align="center">
   💜 Thanks for visiting my profile! <br/>
