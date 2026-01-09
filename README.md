@@ -51,8 +51,6 @@
 </p>
 
 
-
-
-## My GitHub Contributions Snake 🐍
-
-![Snake animation](https://raw.githubusercontent.com/Inomjon-Safarov/Inomjon-Safarov/output/github-contribution-grid-snake.svg)
+### 📊 My GitHub Stats
+![Inomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inomjon-Safarov&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inomjon-Safarov&layout=compact&theme=radical)
