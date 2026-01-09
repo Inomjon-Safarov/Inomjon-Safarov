@@ -50,7 +50,7 @@
   ⭐ Don’t forget to check my repositories and leave a star!
 </p>
 
-
-### 📊 My GitHub Stats
-![Inomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inomjon-Safarov&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inomjon-Safarov&layout=compact&theme=radical)
+### 🛠 Ko'nikmalarim:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
