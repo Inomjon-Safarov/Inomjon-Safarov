@@ -39,7 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/safarovw_01">
+  <a href="https://instagram.com/safarovw__01">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/>
   </a>
 </p>
