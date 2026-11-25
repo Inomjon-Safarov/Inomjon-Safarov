@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Inomjon Safarov 😄
+## 👋 Hey there! I'm Inomjon  😄
 
 
 🚀 Welcome to my GitHub profile!  
